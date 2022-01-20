@@ -9,17 +9,17 @@
     </a>
 </div>
     <br><br>
-    ✔️ For Windows Desktop only.
+    🔹 For Windows Desktop only.
     <br>
-    ✔️ Registration & Login Page
+    🔹 Registration & Login Page
     <br>
-    ✔️ Movie, City, Cinema, Date, Time, Ammount of Ticet, Seat and Payment selection
+    🔹 Movie, City, Cinema, Date, Time, Ammount of Ticet, Seat and Payment selection
     <br>
-    ✔️ Play trailers 
+    🔹 Play trailers 
     <br>
-    ✔️ Cinema Direction Map
+    🔹 Cinema Direction Map
     <br>
-    ✔️ Send Ticket to Email
+    🔹 Send Ticket to Email
     <br>
 
 <div align="center">
