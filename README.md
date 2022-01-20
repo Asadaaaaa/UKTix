@@ -2,6 +2,7 @@
 
 <div align="center">
 	<p>This is a prototype application for purchasing cinema tickets using C++ CLI</p>
+	<p>(This program was built to fulfill college assignments)</p>
 	<a href="https://t.me/ItsMeAsada">
         	<img src="https://img.shields.io/badge/Chat-Telegram-blue" alt="telegram">
     	</a>
