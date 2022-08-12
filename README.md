@@ -34,3 +34,4 @@
  1. Download the latest version on the [Release](https://github.com/Asadaaaaa/UKTix/releases/tag/v3.1) page
  2. Extract the downloaded file
  3. Run UKTix.exe
+
