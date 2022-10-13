@@ -23,7 +23,7 @@ function sendMail(mailTo, mailText) {
         service: "gmail",
         auth: {
             user: "uktjaya@gmail.com",
-            pass: "mahasiswabudiman"
+            pass: "apa lu liat liat"
         }
     });
 
